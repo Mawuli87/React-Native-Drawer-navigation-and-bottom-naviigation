@@ -33,4 +33,4 @@ yarn ios
 ## Screens
 
 | Home Screen | Drawer with avatar |
-| <img src="src/screenshots/Screenshot_20240327_120712_BottomDrawerSheet.jpg" width="250" height="500"/> | <img src="src/Screenshot_20240327_120700_BottomDrawerSheet.jpg" width="250" height="500"/> |
+<img src="src/screenshots/Screenshot_20240327_120712_BottomDrawerSheet.jpg" width="250" height="500"/> | <img src="src/screenshots/Screenshot_20240327_120700_BottomDrawerSheet.jpg" width="250" height="500"/>
